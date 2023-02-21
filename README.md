@@ -1,7 +1,7 @@
-# Java Template
+# Java Arrays
 
 ## Learning Objectives
-- Example learning objective
+- Use arrays to store collections of data
 
 ## Set up instructions
 - Fork this repository and clone the forked version to your machine
