@@ -52,7 +52,9 @@ public class Exercise {
 
         // ... AND THIS LINE
 
-        return cars;
+        // Then change the code below to remove the dummyArray completely and return the cars array you created above instead.
+        String[] dummyArray = {};
+        return dummyArray;
     }
 
     public int four() {
@@ -77,6 +79,8 @@ public class Exercise {
 
         // ... AND THIS LINE
 
-        return floats;
+        // Then change the code below to remove the dummyArray completely and return the floats array you created instead
+        float[] dummyArray = {};
+        return dummyArray;
     }
 }
