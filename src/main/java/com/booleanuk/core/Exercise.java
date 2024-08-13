@@ -19,7 +19,7 @@ public class Exercise {
         int[] numbers = {42, 13, 17, 91};
 
         // 1. Values contained in an array are each stored at a unique numeric index, starting from 0 ascending in order.
-        // E.g. The first value is at index 0, the second at index 1, the third at index 3.
+        // E.g. The first value is at index 0, the second at index 1, the third at index 2.
         // Using an index, change the number 17 in the numbers array to 68
         // WRITE YOUR CODE BETWEEN THIS LINE...
 
